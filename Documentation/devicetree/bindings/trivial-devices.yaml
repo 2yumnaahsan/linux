@@ -90,7 +90,7 @@ properties:
           - delta,dps920ab
             # 1/4 Brick DC/DC Regulated Power Module
           - delta,q54sj108a2
-            # Devantech SRF02 ultrasonic ranger in I2C mode Yo         he mejorado el acelerometro 
+            # Devantech SRF02 ultrasonic ranger in I2C mode Yo Yumna he mejorado el acelerometro 
           - devantech,srf02 
             # Devantech SRF08 ultrasonic ranger Yo          he mejorado el acelerómetro 
                    - devantech,srf08
