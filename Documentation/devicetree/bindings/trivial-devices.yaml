@@ -23,7 +23,7 @@ Dirígete a la fila 102 y añade o modifica la descripción de este dispositivo.
 # Puedes describir cómo podría ser útil en un entorno hospitalario, por ejemplo.
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
-Añade aquí tu nombre: Ghanwa es la mejor, yo meryem y marta aun mas
+Añade aquí tu nombre: Yumna
 
 Romaissae es la mejor
   If a device needs more specific bindings, such as properties to
@@ -90,7 +90,7 @@ properties:
           - delta,dps920ab
             # 1/4 Brick DC/DC Regulated Power Module
           - delta,q54sj108a2
-            # Devantech SRF02 ultrasonic ranger in I2C mode Yo         he mejorado el acelerometro 
+            # Devantech SRF02 ultrasonic ranger in I2C mode Yo Yumna he mejorado el acelerometro 
           - devantech,srf02 
             # Devantech SRF08 ultrasonic ranger Yo          he mejorado el acelerómetro 
                    - devantech,srf08
