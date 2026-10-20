@@ -101,7 +101,7 @@ properties:
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
             # DMARD05: 3-axis I2C Accelerometer Yo  Ghanwa     he revisado los tres ejes del acelerómetro y he cambiado uno 
-            # DMARD06: 3-axis I2C Accelerometer Yo            he mejorado el acelerometro 
+            # DMARD06: 3-axis I2C Accelerometer Yo yumna he mejorado el acelerometro 
           - domintech,dmard06 
             # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro
           - domintech,dmard07
